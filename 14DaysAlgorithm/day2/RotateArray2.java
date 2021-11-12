@@ -1,4 +1,5 @@
-import java.util.Collections;
+package day2;
+
 
 public class RotateArray2 {
     public static void rotate_arr(int[] nums,int start ,int end) {

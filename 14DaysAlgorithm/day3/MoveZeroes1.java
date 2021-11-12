@@ -1,4 +1,6 @@
-public class MoveZeroes {
+package day3;
+
+public class MoveZeroes1 {
     public static void swap(int[] arr,int a ,int b) {
         int temp = arr[a];
         arr[a]=arr[b];

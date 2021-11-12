@@ -1,3 +1,5 @@
+package day1;
+
 class Solution {
     public int searchInsert(int[] nums, int target) {
       int flag =0;
