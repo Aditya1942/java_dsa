@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class MaxAreaofIsland2 {
     public static int maxAreaOfIsland(int[][] grid) {
         int max = 0;
