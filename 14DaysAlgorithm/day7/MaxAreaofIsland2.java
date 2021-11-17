@@ -34,3 +34,5 @@ public class MaxAreaofIsland2 {
     }
 
 }
+
+// link:https:// leetcode.com/problems/max-area-of-island/
